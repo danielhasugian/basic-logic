@@ -1,4 +1,5 @@
 # Basic Logic
 - Fibonacci
+- Palindrome
 
 
